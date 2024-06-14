@@ -8,7 +8,7 @@ Welcome to my CV repository! This repository contains my detailed Curriculum Vit
 
 ## License
 
-This repository is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+This repository is licensed under the MIT License. For more details, see the LICENSE file.
 
 ---
 
