@@ -7,7 +7,7 @@ Welcome to my CV repository! This repository contains my detailed Curriculum Vit
 
 For any inquiries or further information, please feel free to reach out to me:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [your.email@example.com](mailto:adriandc1989@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 - **GitHub**: [Your GitHub Profile](https://github.com/your-github-username)
 
