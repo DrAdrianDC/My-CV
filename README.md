@@ -19,6 +19,9 @@ For any inquiries or further information, please feel free to reach out to me:
 
 This repository is licensed under the MIT License. For more details, see the LICENSE file.
 
+## License
+This repository is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the LICENSE file.
+
 ---
 
 Thank you for visiting my CV repository. I look forward to connecting with you!
