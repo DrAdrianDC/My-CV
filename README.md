@@ -2,7 +2,7 @@
 
 ### Welcome to my CV repository! 
 
-This repository contains my detailed Curriculum Vitae (CV), which outlines my educational background, professional experience, skills, publications and projects. Feel free to explore the contents to get a comprehensive view of my qualifications and expertise.
+This repository contains my detailed Curriculum Vitae (CV), which outlines my educational background, professional experience, skills, publications, etc. Feel free to explore the contents to get a comprehensive view of my qualifications and expertise.
 
 
 ## Contact Information
