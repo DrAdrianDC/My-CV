@@ -16,7 +16,7 @@ For any inquiries or further information, please feel free to reach out to me:
 
 
 ## License
-This repository is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. For more details, see the LICENSE file.
+This repository is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. (See the LICENSE.txt file).
 
 ---
 
