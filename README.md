@@ -11,7 +11,7 @@ For any inquiries or further information, please feel free to reach out to me:
 
 - **Email**: [Email](mailto:adriandc1989@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/)
-- **GitHub**: [GitHub Profile](https://github.com/DrAdrianDC)
+
 
 
 
